@@ -14,6 +14,7 @@ AI Job Mentor for Informal Workers is an AI-powered chatbot solution designed to
 ## Problem Statement
 
 Many informal workers face significant challenges in accessing job opportunities, skill development programs, and financial resources. Key issues include:
+
 - Limited awareness of available job openings and government schemes.
 - Lack of digital literacy and absence of personalized guidance.
 - Difficulty finding training and upskilling opportunities relevant to their roles.
@@ -93,7 +94,8 @@ Many informal workers face significant challenges in accessing job opportunities
 
 ## Repository
 
-**GitHub:** [https://github.com/Sridhar-0306]([https://github.com/Sridhar-0306](https://github.com/Sridhar-0306/IBM_AI_JOB_MENTOR))
+Access the complete project source code and documentation here:  
+[https://github.com/Sridhar-0306/IBM_AI_JOB_MENTOR](https://github.com/Sridhar-0306/IBM_AI_JOB_MENTOR)
 
 ---
 
