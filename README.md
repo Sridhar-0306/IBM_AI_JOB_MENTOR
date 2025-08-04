@@ -93,7 +93,7 @@ Many informal workers face significant challenges in accessing job opportunities
 
 ## Repository
 
-**GitHub:** [https://github.com/Sridhar-0306](https://github.com/Sridhar-0306)
+**GitHub:** [https://github.com/Sridhar-0306]([https://github.com/Sridhar-0306](https://github.com/Sridhar-0306/IBM_AI_JOB_MENTOR))
 
 ---
 
